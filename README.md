@@ -9,4 +9,4 @@ Minha versão de uma aplicação capaz de gerenciar contatos através de linhas 
 - Importar contatos de arquivo CSV
 - Exportar contatos para arquivo CSV
 
-![image](https://github.com/user-attachments/assets/d2027d06-d040-424c-818f-8414792a909f)
+![image](https://github.com/user-attachments/assets/f6990368-cbb2-4b0d-b795-d3b893e741a7)
